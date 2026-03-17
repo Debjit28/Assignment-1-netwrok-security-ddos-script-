@@ -118,8 +118,7 @@ You should see something like `Python 3.10.x`. If not, download Python from [pyt
 
 If you have Git installed:
 ```bash
-git clone https://github.com/YOUR_USERNAME/ddos-simulation.git
-cd ddos-simulation
+git clone https://github.com/Debjit28/Assignment-1-netwrok-security-ddos-script-
 ```
 
 Or download the ZIP from GitHub → "Code" → "Download ZIP", then unzip it.
